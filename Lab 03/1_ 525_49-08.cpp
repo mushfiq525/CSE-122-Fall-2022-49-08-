@@ -1,3 +1,6 @@
+// codeforces problem no- 282A
+// problem name- Bit++
+
 #include<iostream>
 #include<string.h>
 using namespace std;
